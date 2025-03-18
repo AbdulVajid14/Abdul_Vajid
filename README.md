@@ -25,7 +25,6 @@ I'm a **MERN Stack Developer** passionate about building scalable and efficient 
 💻 **GitHub:** [  abdulvajid14](#)  
 
 ## 😄 Pronouns  
-He/Him (or customize based on your preference)  
 
 ## ⚡ Fun Fact  
 I love solving coding challenges and optimizing performance in web apps!  
